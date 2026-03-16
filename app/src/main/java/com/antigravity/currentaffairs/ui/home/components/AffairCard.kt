@@ -48,7 +48,6 @@ import coil.compose.AsyncImage
 import coil.request.ImageRequest
 import com.antigravity.currentaffairs.data.model.CurrentAffair
 import com.antigravity.currentaffairs.data.model.Language
-import com.antigravity.currentaffairs.utils.Extensions
 import com.antigravity.currentaffairs.utils.getKeyPoints
 import com.antigravity.currentaffairs.utils.getTitle
 import com.antigravity.currentaffairs.utils.shareAffair

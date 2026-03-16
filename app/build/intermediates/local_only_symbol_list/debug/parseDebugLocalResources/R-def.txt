@@ -9,7 +9,11 @@ color secondary
 color surface_dark
 color surface_light
 color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
 drawable ic_notification
+mipmap ic_launcher
+mipmap ic_launcher_round
 string about
 string about_description
 string affairs_count

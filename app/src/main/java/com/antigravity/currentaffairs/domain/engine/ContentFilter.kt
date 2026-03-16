@@ -53,6 +53,7 @@ class ContentFilter @Inject constructor(
                 rawLower.contains("world") || rawLower.contains("international") -> return Category.INTERNATIONAL
                 rawLower.contains("defense") || rawLower.contains("military") -> return Category.DEFENSE
                 rawLower.contains("environment") || rawLower.contains("climate") -> return Category.ENVIRONMENT
+                else -> {}
             }
         }
 
